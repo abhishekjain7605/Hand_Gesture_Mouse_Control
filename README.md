@@ -15,12 +15,6 @@ Control your computer mouse using hand gestures detected through your webcam! Th
 
 ---
 
-## 📸 Demo
-
-> *(Optional: Insert a GIF or link to a demo video here)*
-
----
-
 ## 🛠️ Setup Instructions
 
 1. **Clone the Repository**
